@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Cite this software when using its code, and cite the related article separately. This is a post-publication companion, not original 2024 experiment code."
+title: "Cyber Attack Classification: Research Companion"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Inguva
+    given-names: Naga Venkata Aswini Pavan Kumar
+abstract: "AI-assisted post-publication companion with synthetic demonstration and user-supplied CSV support. No real-data benchmark is included in this release."
+references:
+  - type: article
+    title: "Exploring Machine Learning Algorithms for Cyber Attacks' Classification"
+    authors:
+      - family-names: Inguva
+        given-names: NVA Pavan Kumar
+      - family-names: Oni
+        given-names: Oludotun
+      - family-names: Bryant
+        given-names: Jacob
+    year: 2024
+    journal: "International Journal of Advanced Research in Science, Communication and Technology"
+    volume: "4"
+    issue: "2"
+    start: 417
+    end: 420
+    doi: "10.48175/IJARSCT-19438"
